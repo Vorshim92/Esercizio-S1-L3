@@ -22,7 +22,7 @@ h1 {
   margin: auto;
 }
 
-.content img {
+.content video {
   display: block;
   width: 75%;
   border-radius: 10px;
@@ -57,8 +57,7 @@ h1 {
   margin-top: 4rem;
 }
 
-.ingredients p,
-ol li p:first-of-type {
+.ingredients p {
   font-weight: bold;
 }
 
